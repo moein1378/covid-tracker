@@ -1,3 +1,5 @@
+<a href="https://moein1378.github.io/covid-tracker/#/" target="_blank">Demo</a>
+
 # Covid Tracker (covid-tracker)
 
 A Quasar Project
